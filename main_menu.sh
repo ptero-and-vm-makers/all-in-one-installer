@@ -53,25 +53,25 @@ while true; do
         1)
             echo ""
             echo -e "${Y}🔄 Running Dependency Installer...${N}"
-            curl -fsSL https://raw.githubusercontent.com/Sagargamin/INSTALLER-REPO/refs/heads/main/dependency.sh | sed 's/\r$//' | bash
+            curl -fsSL https://raw.githubusercontent.com/ptero-and-vm-makers/all-in-one-installer/refs/heads/main/dependency.sh | sed 's/\r$//' | bash
             pause
             ;;
         2)
             echo ""
             echo -e "${Y}🛠️  Running Bot Maker...${N}"
-            curl -fsSL https://raw.githubusercontent.com/Sagargamin/INSTALLER-REPO/refs/heads/main/bot_maker.sh | sed 's/\r$//' | bash
+            curl -fsSL https://raw.githubusercontent.com/ptero-and-vm-makers/all-in-one-installer/refs/heads/main/bot_maker.sh | sed 's/\r$//' | bash
             pause
             ;;
         3)
             echo ""
             echo -e "${Y}⚙️  Setting up Auto Restarter...${N}"
-            curl -fsSL https://raw.githubusercontent.com/Sagargamin/INSTALLER-REPO/refs/heads/main/autorestarter.sh | sed 's/\r$//' | bash
+            curl -fsSL https://raw.githubusercontent.com/ptero-and-vm-makers/all-in-one-installer/refs/heads/main/autorestarter.sh | sed 's/\r$//' | bash
             pause
             ;;
         4)
             echo ""
             echo -e "${Y}🚀 Bot Remover...${N}"
-            curl -fsSL https://raw.githubusercontent.com/Sagargamin/INSTALLER-REPO/refs/heads/main/bot_remover.sh | sed 's/\r$//' | bash
+            curl -fsSL https://raw.githubusercontent.com/ptero-and-vm-makers/all-in-one-installer/refs/heads/main/bot_remover.sh | sed 's/\r$//' | bash
             pause
             ;;
         5)
@@ -91,13 +91,13 @@ while true; do
         7)
             echo ""
             echo -e "${Y}💻 Installing VM (IDX VPS)...${N}"
-            bash <(curl -fsSL https://raw.githubusercontent.com/NotGamerPiie/idx-vps/main/vps.sh)
+            bash <(curl -fsSL https://raw.githubusercontent.com/ptero-and-vm-makers/idx-vps/main/vps.sh)
             pause
             ;;
         8)
             echo ""
             echo -e "${Y}🖥️  Installing RDP...${N}"
-            curl -fsSL https://raw.githubusercontent.com/Sagargamin/INSTALLER-REPO/main/rdp_installer.sh | sed 's/\r$//' | bash
+            curl -fsSL https://raw.githubusercontent.com/ptero-and-vm-makers/all-in-one-installer/refs/heads/main/rdp_installer.sh | sed 's/\r$//' | bash
             pause
             ;;
         9)
