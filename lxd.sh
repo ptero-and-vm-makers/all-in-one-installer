@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # ==============================================================================
 #  LXC/LXD AUTOMATED INSTALLER (ASCII FIX)
-#  Author:  NotGamerPie
 #  License: MIT
 # ==============================================================================
 
@@ -56,7 +55,7 @@ cat << 'EOF'
 
 EOF
     echo -e "${BLUE}   :: LXC/LXD DEPLOYMENT SUITE ::${NC}"
-    echo -e "${DIM}      Maintained by NotGamerPie${NC}"
+    echo -e "${DIM}      Maintained by Mayank${NC}"
     echo -e "\n"
 }
 
