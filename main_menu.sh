@@ -77,14 +77,14 @@ while true; do
         5)
             echo ""
             echo -e "${B}📢 Join our Discord Server:${N}"
-            echo -e "${G}🔗 https://discord.gg/ZAAyrb4J6s${N}"
+            echo -e "${G}🔗 ${N}"
             echo ""
             pause
             ;;
         6)
             echo ""
             echo -e "${R}📺 Subscribe to YouTube:${N}"
-            echo -e "${Y}🔗 https://www.youtube.com/@OfficialNotGamerPie${N}"
+            echo -e "${Y}🔗 ${N}"
             echo ""
             pause
             ;;
