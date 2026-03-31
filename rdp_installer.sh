@@ -70,18 +70,11 @@ run_step() {
 clear
 printf "%b\n" "${C}"
 cat <<'EOF'
-  ____      _               ____  _      
- / ___|   _| |__   ___ _ __|  _ \(_) ___ 
-| |  | | | | '_ \ / _ \ '__| |_) | |/ _ \
-| |__| |_| | |_) |  __/ |  |  __/| |  __/
- \____\__, |_.__/ \___|_|  |_|   |_|\___|
-      |___/          By NotGamerPie
 EOF
 printf "%b\n" "${N}"
 
 divider
 printf "%b" "${W}"; typewriter "🚀 RDP Installer"; printf "%b" "${N}"
-printf "%b" "${Y}"; typewriter "SUBSCRIBE TO Sagar Gaming 2X"; printf "%b" "${N}"
 divider
 sleep 0.6
 
