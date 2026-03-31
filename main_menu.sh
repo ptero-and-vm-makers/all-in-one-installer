@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ==========================================
-#   🚀 SAGAR GAMING 2X - ALL IN ONE TOOL
+#   🚀 Mayank - ALL IN ONE TOOL
 # ==========================================
 
 set -u
